@@ -93,7 +93,7 @@
 
 ###### &#x20;  \* Link to Digital Literacy Awareness Quiz (🔗 Google Form Link):
 
-(https://docs.google.com/forms/d/e/1FAIpQLScCVXDQaCZ\_UMYVjz2uKMvKgZXGKwM2yrP86\_T7ceJdhyBeYw/viewform?usp=dialog)
+https://docs.google.com/forms/d/e/1FAIpQLScCVXDQaCZ_UMYVjz2uKMvKgZXGKwM2yrP86_T7ceJdhyBeYw/viewform?usp=dialog
 
 
 
